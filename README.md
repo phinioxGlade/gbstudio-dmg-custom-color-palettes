@@ -1,0 +1,1 @@
+# gbstudio-dmg-custom-color-palettes
